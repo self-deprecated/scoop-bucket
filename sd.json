@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.0/sd_0.1.0_windows_amd64.zip",
+            "bin": [
+                "sd.exe"
+            ],
+            "hash": "1853f35dcdcadcb2a5baf4eaca480087258fc78f34787704e6c964956cabf45a"
+        },
+        "arm64": {
+            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.0/sd_0.1.0_windows_arm64.zip",
+            "bin": [
+                "sd.exe"
+            ],
+            "hash": "4d2fea5c219ca3801d1258ff7e533549e02a766e96c02bfca744003b665c5d57"
+        }
+    },
+    "homepage": "https://github.com/self-deprecated/sd",
+    "license": "MIT",
+    "description": "Project task dispatcher for .sd/tasks.yaml manifests"
+}
