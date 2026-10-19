@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.1/sd_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.2/sd_0.1.2_windows_amd64.zip",
             "bin": [
                 "sd.exe"
             ],
-            "hash": "d2d2c950c8a24b4dccb149d5ac21f821d4948e3e12b017039b45ae435ed40aba"
+            "hash": "f8fd796c2a9b4bc6f36adf9746a6d46399c730bb7699e999ab2f2a7777136d4c"
         },
         "arm64": {
-            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.1/sd_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/self-deprecated/sd/releases/download/v0.1.2/sd_0.1.2_windows_arm64.zip",
             "bin": [
                 "sd.exe"
             ],
-            "hash": "8444f608e0fa8bfe58268f8f3c3065a766683f322df02582f9101cab5f7a3022"
+            "hash": "8d89e492121154b06b23481e9533319add50372a13a6c61934119a01aa51a385"
         }
     },
     "homepage": "https://github.com/self-deprecated/sd",
